@@ -7,4 +7,4 @@ https://jsonplaceholder.typicode.com/todos?_limit=5 에서 초기 Todo 리스트
 
 # 구현 화면
 
-![Todo Main](./public/img/todo_main.png)
+![Todo Main](./src/img/todo_main.png)
